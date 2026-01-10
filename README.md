@@ -9,7 +9,7 @@
 ---
 
 ## 🔗 Live Demo
-👉 **[Click here to play](https://daviandany.github.io/RefreshDiceLuck/)**
+👉 <a href="https://daviandany.github.io/RefreshDiceLuck/" target="_blank"><strong>Click here to play</strong></a>
 
 ---
 
@@ -17,7 +17,9 @@
 
 This is **RefreshDiceLuck**. The concept is simple: you refresh the page, the dice roll, and the game automatically declares the winner (Player 1 or Player 2).
 
-I created this project to move away from theory and practice real programming logic. The focus here wasn't to create a complex layout, but to **make JavaScript work** and manipulate screen elements correctly.
+I developed this project to transition from theory to **real-world application**.
+
+My sole objective was to master **Core JavaScript Logic**—ensuring the code effectively controls the game mechanics and **manipulates the DOM with precision** to drive the user experience.
 
 ## 💡 What I Learned and Used
 
@@ -51,4 +53,4 @@ I used CSS to transform the HTML structure into a visually pleasant interface.
 * **Focus on Structure:** I opted for a clean and organized design. Although advanced responsiveness wasn't the main goal, the use of Flexbox ensures the game looks good on most screens.
 
 <br>  
-<div align="center"> Made with 💻 and studies by <b><a href="https://github.com/daviandany">Davi</a></b>. </div>
+<div align="center"> Made with 💻 and studies by <b><a href="https://github.com/daviandany" target="_blank">@daviandany</a></b>. </div>
