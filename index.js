@@ -8,3 +8,11 @@ const imgChanged2 = arrayDices[randomizingDice2];
 
 document.querySelector("#dice1").setAttribute("src", imgChanged1);
 document.querySelector("#dice2").setAttribute("src", imgChanged2);
+
+if(imgChanged1 > imgChanged2){
+document.getElementById("whoWins").innerHTML = ("Player 1 <em>Wins!</em>");
+}else if(imgChanged1 < imgChanged2){
+    document.getElementById("whoWins").innerHTML = ("Player 2 <em>Wins!</em>");
+}else{
+    document.getElementById("whoWins").innerHTML = ("Draw!")
+}
